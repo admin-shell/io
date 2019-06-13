@@ -3,6 +3,10 @@ Welcome to the standard repository of information for the Asset Administration S
 
 ![Details of the Admin shell](verwaltungsschale-detail-part1.png)
 
+# Sample Administration Shells
+
+You'll find some samples in the Sample_AAS folder.
+
 # Tools
 
 For validating the above specification, many users use the Package Explorer as viewer/ editor:
